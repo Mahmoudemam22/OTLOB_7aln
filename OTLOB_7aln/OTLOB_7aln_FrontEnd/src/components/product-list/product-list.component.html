@@ -1,0 +1,21 @@
+<div class="container">
+  <h2 class="heading">Products</h2>
+
+  <div class="product-list">
+    <div class="product-card" *ngFor="let product of products">
+      <a [routerLink]="['/products', product.id]">
+        <img [src]="product.imageUrl" alt="{{ product.name }}" />
+        <h3>{{ product.name }}</h3>
+      </a>
+      <p>{{ product.description }}...</p>
+      <p class="price">${{ product.price }}</p>
+    </div>
+  </div>
+
+  <div class="pagination-container">
+    <button *ngIf="pageIndex > 1" (click)="previousPage()">Previous</button>
+    <button *ngIf="pageIndex * pageSize < totalProducts" (click)="nextPage()">
+      Next
+    </button>
+  </div>
+</div>

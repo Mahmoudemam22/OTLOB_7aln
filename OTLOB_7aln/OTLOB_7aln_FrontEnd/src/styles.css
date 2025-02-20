@@ -1,0 +1,47 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .heading {
+    text-align: center;
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 30px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .product-details {
+      flex-direction: column;
+      text-align: center;
+    }
+  
+    .product-details img {
+      max-width: 100%;
+    }
+  
+    .product-card {
+      width: 100%;
+    }
+  
+    .brand-item {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  }
+  
