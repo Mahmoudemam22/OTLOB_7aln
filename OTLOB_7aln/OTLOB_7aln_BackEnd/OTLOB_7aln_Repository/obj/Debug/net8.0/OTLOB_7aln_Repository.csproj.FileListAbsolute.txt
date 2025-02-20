@@ -1,0 +1,30 @@
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Repository.deps.json
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Repository.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Core.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7a.05B14D6D.Up2Date
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\refint\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Repository\obj\Debug\net8.0\ref\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Repository.deps.json
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Repository.pdb
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\bin\Debug\net8.0\OTLOB_7aln_Core.pdb
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.AssemblyInfo.cs
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7a.05B14D6D.Up2Date
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\refint\OTLOB_7aln_Repository.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\OTLOB_7aln_Repository.pdb
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Repository\obj\Debug\net8.0\ref\OTLOB_7aln_Repository.dll

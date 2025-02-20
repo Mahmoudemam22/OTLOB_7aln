@@ -1,0 +1,11 @@
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\bin\Debug\net8.0\OTLOB_7aln_Service.deps.json
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\bin\Debug\net8.0\OTLOB_7aln_Service.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\bin\Debug\net8.0\OTLOB_7aln_Service.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\OTLOB_7aln_Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\OTLOB_7aln_Service.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\OTLOB_7aln_Service.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\OTLOB_7aln_Service.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\OTLOB_7aln_Service.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\refint\OTLOB_7aln_Service.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\OTLOB_7aln_Service.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Service\obj\Debug\net8.0\ref\OTLOB_7aln_Service.dll

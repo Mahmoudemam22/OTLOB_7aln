@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\OTLOB_7aln_API.props" />
+</Project>

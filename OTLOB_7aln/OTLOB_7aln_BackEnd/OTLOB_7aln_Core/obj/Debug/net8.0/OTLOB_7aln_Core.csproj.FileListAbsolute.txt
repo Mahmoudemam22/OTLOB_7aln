@@ -1,0 +1,24 @@
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\bin\Debug\net8.0\OTLOB_7aln_Core.deps.json
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\bin\Debug\net8.0\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\bin\Debug\net8.0\OTLOB_7aln_Core.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.AssemblyInfo.cs
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\refint\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.pdb
+C:\Users\Mahmoud\source\repos\OTLOB_7aln\OTLOB_7aln_Core\obj\Debug\net8.0\ref\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\bin\Debug\net8.0\OTLOB_7aln_Core.deps.json
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\bin\Debug\net8.0\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\bin\Debug\net8.0\OTLOB_7aln_Core.pdb
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.csproj.AssemblyReference.cache
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.AssemblyInfoInputs.cache
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.AssemblyInfo.cs
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.csproj.CoreCompileInputs.cache
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\refint\OTLOB_7aln_Core.dll
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\OTLOB_7aln_Core.pdb
+C:\Users\Mahmoud\OneDrive\Desktop\My Projects\OTLOB_7aln\OTLOB_7aln_BackEnd\OTLOB_7aln_Core\obj\Debug\net8.0\ref\OTLOB_7aln_Core.dll
